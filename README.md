@@ -68,7 +68,7 @@ In order to run this project you need:
 Clone this repository to your desired folder eg my-folder:
 
   cd my-folder
-  git clone https://github.com/KALUNGI-J-BOBSON/Hello_Project
+  git clone https://github.com/KALUNGI-J-BOBSON/Hello-Microverse_Project
 
 
 ### Install
